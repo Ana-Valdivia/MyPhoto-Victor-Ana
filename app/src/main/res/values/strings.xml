@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyPhoto</string>
+    <string name="capturar">CAPTURAR</string>
+    <string name="visualizar">VISUALIZAR</string>
+</resources>
